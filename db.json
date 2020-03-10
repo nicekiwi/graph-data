@@ -1,7 +1,7 @@
 {
     "data": {
         "meta": [
-            "month": "March/2019"
+            { "month": "March/2019" }
         ],
         "eventsPerLevel": [
             {
