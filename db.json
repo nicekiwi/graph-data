@@ -1,6 +1,8 @@
 {
     "data": {
-        "meta": [],
+        "meta": [
+            "month": "March/2019"
+        ],
         "eventsPerLevel": [
             {
                 "level": "[L5] Minimal",
