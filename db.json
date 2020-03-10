@@ -3,84 +3,29 @@
         "meta": [],
         "eventsPerLevel": [
             {
-                "month": "December",
-                "data": [
-                    {
-                        "level": "[L5] Minimal",
-                        "percentage": 26.67,
-                        "perThousandBedDays": 4
-                    },
-                    {
-                        "level": "[L4] Minor",
-                        "percentage": 6.67,
-                        "perThousandBedDays": 1
-                    },
-                    {
-                        "level": "[L3] Moderate",
-                        "percentage": 26.67,
-                        "perThousandBedDays": 4
-                    },
-                    {
-                        "level": "[L2] Major",
-                        "percentage": 20,
-                        "perThousandBedDays": 3
-                    },
-                    {
-                        "level": "[L1] Severe",
-                        "percentage": 20,
-                        "perThousandBedDays": 3
-                    }
-                ]
+                "level": "[L5] Minimal",
+                "percentage": 26.67,
+                "perThousandBedDays": 4
             },
             {
-                "month": "January",
-                "data": [
-                    {
-                        "level": "[L1] Severe",
-                        "percentage": 50,
-                        "perThousandBedDays": 2.49
-                    },
-                    {
-                        "level": "[L3] Moderate",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 0.83
-                    },
-                    {
-                        "level": "[L2] Major",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 0.83
-                    },
-                    {
-                        "level": "[L5] Minimal",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 0.83
-                    }
-                ]
+                "level": "[L4] Minor",
+                "percentage": 6.67,
+                "perThousandBedDays": 1
             },
             {
-                "month": "February",
-                "data": [
-                    {
-                        "level": "[L3] Moderate",
-                        "percentage": 50,
-                        "perThousandBedDays": 3.75
-                    },
-                    {
-                        "level": "[L2] Major",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 1.25
-                    },
-                    {
-                        "level": "[L5] Minimal",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 1.25
-                    },
-                    {
-                        "level": "[L1] Severe",
-                        "percentage": 16.67,
-                        "perThousandBedDays": 1.25
-                    }
-                ]
+                "level": "[L3] Moderate",
+                "percentage": 26.67,
+                "perThousandBedDays": 4
+            },
+            {
+                "level": "[L2] Major",
+                "percentage": 20,
+                "perThousandBedDays": 3
+            },
+            {
+                "level": "[L1] Severe",
+                "percentage": 20,
+                "perThousandBedDays": 3
             }
         ],
         "eventsPerType": null,
