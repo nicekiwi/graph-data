@@ -32,6 +32,33 @@
         ],
         "eventsPerType": null,
         "eventsPerHour": null,
-        "eventsPerDay": null
+        "eventsPerDay": null,
+        "eventsPerLevelAverage": [
+            {
+                "level": "[L5] Minimal",
+                "percentage": 10,
+                "perThousandBedDays": 4
+            },
+            {
+                "level": "[L4] Minor",
+                "percentage": 10,
+                "perThousandBedDays": 1
+            },
+            {
+                "level": "[L3] Moderate",
+                "percentage": 5,
+                "perThousandBedDays": 4
+            },
+            {
+                "level": "[L2] Major",
+                "percentage": 0,
+                "perThousandBedDays": 3
+            },
+            {
+                "level": "[L1] Severe",
+                "percentage": 75,
+                "perThousandBedDays": 3
+            }
+        ]
     }
 }
